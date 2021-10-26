@@ -8,7 +8,7 @@ This repository to show how Elastic Kubernetes Cluster(EKS) that is a managed se
 
 
 ## Included
-`
+
 1. Create VPC and Subnets
 2. Create Internet and NAT Gatways
 3. Create Route Tables and associations
@@ -21,9 +21,7 @@ This repository to show how Elastic Kubernetes Cluster(EKS) that is a managed se
 10. Run Terraform Commands to Create AWS EKS Cluster
 11. Connect to EKS Cluster
 
-Hope this will be good learning guide 
-
-, .
+ Hope this will be good learning guide.
 
 
 
