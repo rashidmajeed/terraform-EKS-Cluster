@@ -3,6 +3,9 @@ This repository to show how Elastic Kubernetes Cluster(EKS) that is a managed se
 
 ## Big Picture
  A picture is a graphical representation about creating EKS cluster in a virtual private cloud in AWS in a scure way.
+ 
+ ![anton](https://user-images.githubusercontent.com/21228768/138806022-bac47082-fae3-44ea-be97-af25cc2b49f3.png)
+
 
 ## Included
 `
